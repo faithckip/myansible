@@ -1,2 +1,2 @@
 [webservers]
-3.139.83.59 ansible_user=ec2-user
+3.139.83.59 ansible_ssh_pass=xxx ansible_ssh_user=ec2-user ansible_user=ec2-user
